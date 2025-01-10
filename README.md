@@ -1,5 +1,5 @@
 # PythonProject
-PythonProject is a comprehensive repository for data analysis and machine learning model training. It leverages Python's powerful libraries to explore datasets, preprocess data, and build, train, and evaluate machine learning models.
+python-projects is a comprehensive repository for data analysis and machine learning model training. It leverages Python's powerful libraries to explore datasets, preprocess data, and build, train, and evaluate machine learning models.
 
 ## Features
 - Data Analysis: Explore and visualize data using tools like Pandas, NumPy, and Matplotlib.
